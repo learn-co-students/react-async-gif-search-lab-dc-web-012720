@@ -10,6 +10,7 @@ function App() {
       < NavBar color='black' title="Giphy Search" />
       < GifListContainer />
       (This lab does not run on my computer)
+      https://github.com/IdleScV/async-react-mini-project-learn
     </div>
   )
 }
